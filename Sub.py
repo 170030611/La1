@@ -1,6 +1,8 @@
-a = int(input("enter first number: "))
-b = int(input("enter second number: "))
- 
-sum = a + b
- 
-print("sum:", sum)
+num1 = 15
+num2 = 12
+  
+# Adding two nos 
+sum = num1 + num2 
+  
+# printing values 
+print("Sum of {0} and {1} is {2}" .format(num1, num2, sum)) 
