@@ -1,5 +1,5 @@
-a = int(input("enter first number: "))
-b = int(input("enter second number: "))
+a = 7
+b = 5
  
 sum = a + b
  
