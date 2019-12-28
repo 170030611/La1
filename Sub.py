@@ -1,9 +1,6 @@
-
-num1 = 15
-num2 = 12
-
+a = int(input("enter first number: "))
+b = int(input("enter second number: "))
  
-sum = num1 + num2 
-
+sum = a + b
  
-print("Sum of :" ,sum)
+print("sum:", sum)
